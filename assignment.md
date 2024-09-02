@@ -8,7 +8,7 @@ Scenario 1:
 Imagine you are hired by a startup company for a school to implement their IT infrastructure as their IT consultant. n your own words (300 words or less), describe how could implementing Scrum help their IT team improve their productivity.
 
 ```
-Your answer here
+Your answer here abc
 ```
 
 Scenario 2:
